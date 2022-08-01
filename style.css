@@ -1,0 +1,9 @@
+.container {
+    height: 50vh;
+    margin-top: 10%;
+    outline: 2px solid rgb(204, 130, 130);
+}
+
+img {
+    max-height: 5em;
+}
